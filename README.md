@@ -1,11 +1,11 @@
 ### Hi there 👋
 #### I am Prathamesh Nile ✨
 
-[<img src="https://github.com/nileprathamesh1/logos/blob/master/instagram-logo.png" width="50" height="50" />](https://www.instagram.com/dr.winter__1512/)
-[<img src="https://github.com/nileprathamesh1/logos/blob/master/linkedin%20logo.png" width="50" height="50" />](https://www.linkedin.com/in/prathamesh-nile-51960216b/)
-[<img src="https://github.com/nileprathamesh1/logos/blob/master/facebook_logo.png" width="50" height="50" />](https://www.facebook.com/profile.php?id=100009048113675)
-[<img src="https://github.com/nileprathamesh1/logos/blob/master/github_logo.png" width="50" height="50" />](https://github.com/nileprathamesh1/)
-[<img src="https://github.com/nileprathamesh1/logos/blob/master/twitter_logo.png" width="50" height="50" />](https://twitter.com/NilePratham1512)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/instagram-logo.png" width="25" height="25" />](https://www.instagram.com/dr.winter__1512/)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/linkedin%20logo.png" width="25" height="25" />](https://www.linkedin.com/in/prathamesh-nile-51960216b/)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/facebook_logo.png" width="25" height="25" />](https://www.facebook.com/profile.php?id=100009048113675)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/github_logo.png" width="25" height="25" />](https://github.com/nileprathamesh1/)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/twitter_logo.png" width="25" height="25" />](https://twitter.com/NilePratham1512)
 
 
 
