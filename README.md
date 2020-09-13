@@ -1,6 +1,6 @@
 ### Hi there 👋
-## I am Prathamesh Nile ✨
-## you can find me on these
+# I am Prathamesh Nile ✨
+
 [<img src="https://github.com/nileprathamesh1/logos/blob/master/instagram-logo.png" width="50" height="50" />](https://www.instagram.com/dr.winter__1512/)
 [<img src="https://github.com/nileprathamesh1/logos/blob/master/linkedin%20logo.png" width="50" height="50" />](https://www.linkedin.com/in/prathamesh-nile-51960216b/)
 [<img src="https://github.com/nileprathamesh1/logos/blob/master/facebook_logo.png" width="50" height="50" />](https://www.facebook.com/profile.php?id=100009048113675)
