@@ -1,11 +1,11 @@
 ### Hi there 👋
 ## I am Prathamesh Nile ✨
 ## you can find me on these
-[<img src="https://github.com/nileprathamesh1/logos/blob/master/instagram-logo.png" width="20" height="20" />](https://www.instagram.com/dr.winter__1512/)
-[![LinkedIn Link](https://github.com/nileprathamesh1/logos/blob/master/linkedin%20logo.png)](https://www.linkedin.com/in/prathamesh-nile-51960216b/)
-[![Faceboon Link](https://github.com/nileprathamesh1/logos/blob/master/facebook_logo.png)](https://www.facebook.com/profile.php?id=100009048113675)
-[![Github Link](https://github.com/nileprathamesh1/logos/blob/master/github_logo.png)](https://github.com/nileprathamesh1/)
-[![Twitter Link](https://github.com/nileprathamesh1/logos/blob/master/twitter_logo.png)](https://twitter.com/NilePratham1512)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/instagram-logo.png" width="50" height="50" />](https://www.instagram.com/dr.winter__1512/)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/linkedin%20logo.png" width="50" height="50" />](https://www.linkedin.com/in/prathamesh-nile-51960216b/)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/facebook_logo.png" width="50" height="50" />](https://www.facebook.com/profile.php?id=100009048113675)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/github_logo.png" width="50" height="50" />](https://github.com/nileprathamesh1/)
+[<img src="https://github.com/nileprathamesh1/logos/blob/master/twitter_logo.png" width="50" height="50" />](https://twitter.com/NilePratham1512)
 
 
 
