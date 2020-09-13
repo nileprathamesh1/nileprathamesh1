@@ -1,7 +1,13 @@
 ### Hi there 👋
 ## I am Prathamesh Nile ✨
 ## you can find me on these
-[![Instagram Link](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Finstagram-logos-png-images-free-download-2.png&imgrefurl=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Finstagram-logo-png&tbnid=OFY5kQPctHC3aM&vet=12ahUKEwiCrqq8reXrAhXWjUsFHbVpDrkQMygAegUIARC2AQ..i&docid=AUBJR1XNmwqHwM&w=1000&h=1000&q=instagram%20logo&hl=en&safe=active&ved=2ahUKEwiCrqq8reXrAhXWjUsFHbVpDrkQMygAegUIARC2AQ)](https://www.instagram.com/dr.winter__1512/)
+[![Instagram Link](https://github.com/nileprathamesh1/logos/blob/master/instagram-logo.png)](https://www.instagram.com/dr.winter__1512/)
+[![LinkedIn Link](https://github.com/nileprathamesh1/logos/blob/master/linkedin%20logo.png)](https://www.linkedin.com/in/prathamesh-nile-51960216b/)
+[![Faceboon Link](https://github.com/nileprathamesh1/logos/blob/master/facebook_logo.png)](https://www.facebook.com/profile.php?id=100009048113675)
+[![Github Link](https://github.com/nileprathamesh1/logos/blob/master/github_logo.png)](https://github.com/nileprathamesh1/)
+[![Twitter Link](https://github.com/nileprathamesh1/logos/blob/master/twitter_logo.png)](https://twitter.com/NilePratham1512)
+
+
 
 
 <!--
